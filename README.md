@@ -8,7 +8,7 @@ The privacy policy is publicly available through GitHub Pages and is used to com
 
 This privacy policy applies to the following applications:
 
-- Sudoku Zen
+- Sudoku Brain
 
 Future applications published by **Yashin Games** may also be covered by this policy.
 
