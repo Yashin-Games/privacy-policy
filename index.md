@@ -1,4 +1,6 @@
-# Privacy Policy
+# Yashin Games
+
+## Privacy Policy
 
 Last updated: 2026
 
