@@ -2,6 +2,8 @@
 
 Last updated: 2026
 
+This Privacy Policy applies to all mobile applications developed and published by **Yashin Games** on Google Play.
+
 Yashin Games built the applications available on Google Play as free applications. These services are provided by Yashin Games and are intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decides to use our applications.
@@ -19,7 +21,7 @@ These may include:
 - Device type
 - Operating system version
 - App usage statistics
-- Advertising identifiers
+- Advertising identifiers (Advertising ID)
 
 This information is used only for analytics and advertising purposes.
 
@@ -89,7 +91,7 @@ If you are a parent or guardian and you are aware that your child has provided u
 
 # Security
 
-We value your trust in providing us your personal information, thus we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable.
+We value your trust in providing us your personal information, thus we strive to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet or electronic storage is 100% secure and reliable.
 
 ---
 
