@@ -41,7 +41,7 @@ https://policies.google.com/privacy
 
 This app displays advertisements provided by third-party ad networks (Google AdMob). These ads may be personalized based on your interests or non-personalized depending on your region and preferences.
 
-Where required by applicable laws (such as GDPR), users may be asked to provide consent for personalized advertising.
+Where required by applicable laws (such as GDPR), consent for personalized advertising may be obtained by the advertising providers.
 
 ---
 
